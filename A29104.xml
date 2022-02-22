@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perswasive (sic) to peace and unity a sermon preached before the Lord-Mayor and the aldermen of the city of London ; at the Church of St. Mary le-bow, on Sunday, January 16th 1697/8 / by Samuel Bradford.</title>
+            <author>Bradford, Samuel, 1652-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29104</idno>
+            <idno type="STC">Wing B4117</idno>
+            <idno type="STC">ESTC R6286</idno>
+            <idno type="EEBO-CITATION">11572488</idno>
+            <idno type="OCLC">ocm 11572488</idno>
+            <idno type="VID">47886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47886)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 484:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perswasive (sic) to peace and unity a sermon preached before the Lord-Mayor and the aldermen of the city of London ; at the Church of St. Mary le-bow, on Sunday, January 16th 1697/8 / by Samuel Bradford.</title>
+                  <author>Bradford, Samuel, 1652-1731.</author>
+               </titleStmt>
+               <extent>[8], 32 p. ;  21 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brab. Aylmer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Ephesians IV, 3 --  Sermons.</term>
+               <term>Concord --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47886:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Perſwaſive to Peace and <g ref="char:V">Ʋ</g>nity.</hi> A SERMON preached before the Right Honourable the Lord-Mayor AND THE ALDERMEN OF THE CITY of <hi>LONDON;</hi> At the Church of St. <hi>Mary Le-Bow,</hi> On Sunday <hi>January</hi> 16th 1697/1698. By <hi>SAM<g ref="char:V">Ʋ</g>EL BRADFORD,</hi> Rector of the ſaid Church.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Brab. Aylmer</hi> at the <hi>Three Pigeons</hi> near the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:47886:2"/>
+            <pb facs="tcp:47886:2"/>
+            <head>To the Right Honourable Sir <hi>Humphry Edwin,</hi> K<hi rend="sup">nt</hi>, Lord Mayor of the City of <hi>London,</hi> AND THE Court of Aldermen.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THE Publiſhing this Diſcourſe is purely an act of Obedience to Your Order; it being deſign'd to have gone no farther, than the Place in which it was Preach'd.</p>
+            <p>When You were pleas'd to come in a Body to my Church, upon ſo ſolemn an Occaſion, as <hi>that</hi> of partaking of the Holy Communion, in compliance with a Law which makes the doing ſo a <hi>Teſt,</hi> to all who are admitted to Publick Offices and Em<g ref="char:EOLhyphen"/>ployments, I thought it became me to lay hold on the Opportunity, to exhort You earneſtly to promote the Good of that Church, whereof by this Practice You own Your ſelves to be Members.</p>
+            <pb facs="tcp:47886:3"/>
+            <p>What I have urg'd for our being (as far as is poſſible) united, not only in <hi>Judgment</hi> and <hi>Affe<g ref="char:EOLhyphen"/>ction;</hi> but in <hi>Communion</hi> too, is upon ſuch Reaſons as will hold equally, where there is an <hi>In<g ref="char:EOLhyphen"/>dulgence</hi> granted by Law, and where there is not; namely, The Precepts of the Holy Scriptures, and the Nature of the Chriſtian Body; by both which every Chriſtian is certainly oblig'd to promote the Peace and Unity of the Church of Chriſt, <hi>not only for Wrath, but alſo for Conſcience ſake;</hi> out of regard to Chriſt and his Church, even where he is lyable to no Civil Mulcts or Penal<g ref="char:EOLhyphen"/>ties for doing otherwiſe.</p>
+            <p>And to prevent all jealouſie, as if I had the leaſt Intention hereby to expreſs my diſlike of In<g ref="char:EOLhyphen"/>dulgence towards tender Conſciences, I take this Occaſion to declare, That I heartily approve it, as being thorowly perſwaded, that for one Chriſtian to perſecute another, who Conſcientiouſly differs from him, meerly for his ſo doing, is a groſs violation, not only of the Law of <hi>Chriſtianity,</hi> but even of <hi>Nature</hi> it ſelf.</p>
+            <p>Nay farther, I believe it the Duty of Church-Governours to inſiſt upon no narrower Terms of Communion, than ſuch as, to the beſt of their Judg<g ref="char:EOLhyphen"/>ments, regulated by Scripture, have a plain and
+<pb facs="tcp:47886:3"/>evident tendency to maintain Truth, promote Piety and Vertue, and preſerve good Order in the Churches under their Care. Which I mention with the greater freedom, becauſe I am well ſatisfied that this was the Principle upon which thoſe who ſettled the Reformation amongſt us, in the Reign of King <hi>Edward</hi> and Queen <hi>Elizabeth,</hi> acted; and be<g ref="char:EOLhyphen"/>cauſe I doubt not but that it is the Principle alſo of our preſent Governours both in Church and State.</p>
+            <p>But after this, the Duty of every private Chri<g ref="char:EOLhyphen"/>ſtian is as plain; namely, to comply with the Terms eſtabliſh'd, as far as he Lawfully may, valuing the Peace of the Church much beyond the gratifica<g ref="char:EOLhyphen"/>tion of himſelf, and being ready to do every thing for the maintaining its Unity, which he thinks Law<g ref="char:EOLhyphen"/>ful to be done upon any other account whatſoever.</p>
+            <p>How the Chriſtians of this Nation came to divide themſelves into ſo many diſtinct and ſeparate Com<g ref="char:EOLhyphen"/>munions, I will not now inquire: but till we can attain to this Diſpoſition, I can foreſee nothing elſe, but that our Diviſions muſt be propagated without Reaſon, and without End, from one Generation to another; which is but a melancholy Thought to any one who remembers how much ſtreſs both our Saviour and his Apoſtles have laid upon Peace and Unity.</p>
+            <pb facs="tcp:47886:4"/>
+            <p>The Prayer which our Lord offer'd up, a little before his Suffering, for all who ſhould believe in him, was in theſe words; <hi>That they all may be one, as thou Father art in me, and I in thee, that they alſo may be one in us;</hi> and that for this Reaſon, <hi>That the World may believe that thou haſt ſent me.</hi> And St. <hi>Paul,</hi> in a ſet Diſcourſe occaſion'd by Contentions in the Church of <hi>Corinth,</hi> concerning the Gifts with which ſome were endued to a greater degree than others, prefers <hi>Charity</hi> (meaning <hi>that Charity</hi> whereby the Peace and Unity of the Church is maintain'd) much before the beſt of Gifts, the ſtrongeſt Faith, the moſt profuſe Liberality, and even Martyrdom it ſelf.</p>
+            <p>Our Bleſſed Saviour, as an Example to his Followers, conſtantly joyn'd in the Publick Exer<g ref="char:EOLhyphen"/>ciſes of God's Worſhip, both in the Temple and in the Synagogue, notwithſtanding the many and groſs Corruptions which were at that time crept into the Jewiſh Church.</p>
+            <p>The Apoſtles in like manner, and the other Chri<g ref="char:EOLhyphen"/>ſtians who dwelt at <hi>Jeruſalem,</hi> though as they were oblig'd by the Chriſtian Inſtitution, they aſſembled apart from the <hi>Jews,</hi> for the performing that Worſhip which was peculiarly Chriſtian, yet
+<pb facs="tcp:47886:4"/>we never find that they deſerted either the Temple or the Synagogues, till the final deſolation of their Country. And St. <hi>Paul</hi> himſelf, who ſo often and ſo vehemently, upon juſt occaſions, aſſerted and pleaded for the Liberty of Chriſtians, as being ſet free from the Jewiſh Yoke, yet did not at all ſcruple the making uſe of thoſe Ceremonies, which himſelf had declar'd to be abrogated, when ever it might ſerve to the benefit of the Church.</p>
+            <p>After which Conſiderations, 'tis very ſtrange that any Chriſtian ſhould entertain ſuch ſlight ap<g ref="char:EOLhyphen"/>prehenſions of the Evil and Danger of dividing the Chriſtian Church, as abundance amongſt us have done.</p>
+            <p>Pardon me, if I ſeem to preſs this matter with Zeal upon <hi>You,</hi> who, under His Majeſty, have the Government of this great City committed to You, and whoſe Examples are like to have much greater Influence than the Examples of private Men. Whatſoever others do, it certainly <hi>becomes</hi> thoſe who are in <hi>Publick Stations, to fulfil all Righteouſneſs;</hi> and I think I may be allow'd to ſay, without Offence, that a <hi>Magiſtrate</hi> ſhould be one who needs no <hi>Indulgence,</hi> but that which is by common conſent given to Humane Nature in general.</p>
+            <pb facs="tcp:47886:5"/>
+            <p>That whatſoever is truly and juſtly propos'd in the following Diſcourſe may be of Uſe to the Pub<g ref="char:EOLhyphen"/>lick, and that we may all in our reſpective Sta<g ref="char:EOLhyphen"/>tions, zealouſly and conſtantly, promote the Ho<g ref="char:EOLhyphen"/>nour of Almighty God, the Good of his Church, and the Welfare of the Kingdom, is the hearty Prayer of,</p>
+            <closer>
+               <salute>Right Honourable,</salute>
+               <signed>
+                  <hi>Your moſt Faithful, and Obedient Servant,</hi> Samuel Bradford.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:47886:5"/>
+            <head>A SERMON Preached before the Lord-Mayor, Perſwading to <hi>PEACE</hi> and <hi>UNITY.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EPHESIANS 4.3.</hi>
+                  </bibl>
+                  <p>Endeavouring to keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the bond of Peace.</p>
+               </q>
+            </epigraph>
+            <p>WE are aſſembled at this time not only to hear the Word of God read and prea<g ref="char:EOLhyphen"/>ched, and to offer up our daily Prayers and Praiſes to the Divine Majeſty; but alſo to Cele<g ref="char:EOLhyphen"/>brate
+<pb n="2" facs="tcp:47886:6"/>the moſt peculiar and Solemn Office of our Chriſtian Religion, Namely the Commemoration of our Saviours Death, according to his own Inſtitu<g ref="char:EOLhyphen"/>tion. By doing of which we openly profeſs to the World, Firſt, our Communion with the Father, and his Son Jeſus Chriſt, by that Spirit which pro<g ref="char:EOLhyphen"/>ceedeth from both; and in the next Place our fellow<g ref="char:EOLhyphen"/>ſhip one with another. We declare hereby that we are Members of that part of the Chriſtian Church which is eſtabliſh'd in this Nation, and not of that only, but of the truly Catholick Church throughout the World. For the Sacrament of the Lords Supper was intended by our Lord, as a Badge and Symbol of ſuch our Communion. And upon this Occaſion I thought I could not chuſe a more proper Subject, than the words I have now read to you, wherein we are ſo expreſly exhorted to regard, and to pro<g ref="char:EOLhyphen"/>mote, as far as in us lyes, the Unity and Peace of the Church of Chriſt. <hi>Endeavouring to keep</hi> &amp;c.</p>
+            <p>St. <hi>Paul</hi> had been, in his preceding Diſcourſe, putting the <hi>Epheſians</hi> in mind of the Extraordinary Grace of God towards them, in taking them with<g ref="char:EOLhyphen"/>in the Pale of his Church; that whereas they had been <hi>Gentiles,</hi>
+               <note place="margin">Ch. 2.11, 12, 13.</note> 
+               <hi>without Chriſt, Aliens from the Common wealth of Iſrael, and ſtrangers from the Covenants of Promiſe;</hi> Nay, <hi>having no hope, and without God in the World:</hi> they were <hi>Now brought near to God by the Blood of Chriſt,</hi> being together with the believing Jews adopted into his Family. He exceedingly mag<g ref="char:EOLhyphen"/>nifies this their Privilege, in thoſe Remarkable Words,
+<note place="margin">v. 10, 2, 21, 22.</note> 
+               <hi>Now therefore ye are no more ſtrangers and Forreigners; but fellow Citizens with the Saints, and of the Houſhold of God, and are built upon the Foun<g ref="char:EOLhyphen"/>dation of the Apoſtles and Prophets, Jeſus Chriſt him<g ref="char:EOLhyphen"/>ſelf
+<pb n="9" facs="tcp:47886:6"/>being the Chief corner-ſtone, in whom all the build<g ref="char:EOLhyphen"/>ing, fitly Framed together, groweth into an holy Temple in the Lord, in whom you alſo are builded together, for an Habitation of God, through the Spirit.</hi>
+            </p>
+            <p>To the ſame purpoſe he goes on, throughout the Third Chapter, both to extol this Favour of God towards them, and to pray that they might be thorowly Senſible of it; after which he begins this <hi>Fourth</hi> Chap. with a Serious Exhortation to them, that they would walk worthy of this their Voca<g ref="char:EOLhyphen"/>tion, particularly in the exerciſe of much Humility and Charity.
+<note place="margin">
+                  <hi>Ver.</hi> 1, 2.</note> 
+               <hi>I therefore the Priſoner of the Lord be<g ref="char:EOLhyphen"/>ſeech you, that ye walk worthy of the Vocation wherewith ye are call'd, with all lowlineſs and meekneſs, with long<g ref="char:EOLhyphen"/>ſuffering, forbearing one another in love;</hi> and as it follows in the words of my Text, <hi>Endeavouring to keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the bond of Peace.</hi>
+            </p>
+            <p>From which Connexion of the Words we may obſerve by the way, That <hi>the keeping the unity of the Spirit in the bond of Peace</hi> (whatever that means) is abſolutely Neceſſary to our <hi>walking worthy of our Chriſtian Vocation,</hi> and that in order to this, we ought to have our minds well ſeaſon'd with <hi>Humility</hi> and <hi>Charity,</hi> two moſt excellent Chriſtian Graces, whereby we ſhall be beſt diſpos'd to the exerciſe of all other Vertues, which our Holy Religion Re<g ref="char:EOLhyphen"/>quires, and for want of which it comes to paſs, that the Profeſſors of Chriſtianity are ſo miſerably divided as they are at this day. But I proceed to the words themſelves; in treating of which I propoſe this Method.</p>
+            <p>To Explain the Duty which the Apoſtle here urges upon the Epheſians, ſhewing what it is,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>to keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the bondof Peace.</hi>
+            </p>
+            <pb n="10" facs="tcp:47886:7"/>
+            <p>To conſider the Obligation which all Chriſtians are under,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> to the Practice of this Duty.</p>
+            <p>To ſhew how we may beſt attain to the Practice of it.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+            </p>
+            <p>To Explain the Duty it Self,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> ſhewing what it is, <hi>to keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the bond of Peace.</hi>
+            </p>
+            <p>By the <hi>
+                  <g ref="char:V">Ʋ</g>nity of the Spirit</hi> I conceive the Apoſtle here means ſuch an <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> as properly belongs to a Body, which is inſpired in the whole, and every part of it, by <hi>one and the ſame Spirit.</hi> I know, that ſome will have this phraſe to ſignifie no more, than an <hi>
+                  <g ref="char:V">Ʋ</g>nion of the Spirits</hi> or <hi>minds of Chriſtians.</hi> This is indeed contain'd in it; but 'tis by no means the full Senſe of the Expreſſion. The <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> which is be<g ref="char:EOLhyphen"/>tween Chriſtians, is Principally and in the firſt Place in their <hi>Minds</hi> or <hi>Spirits;</hi> but I take the word <hi>Spirit</hi> here to relate to the <hi>Divine Spirit,</hi> which, as the Apoſtle preſently after obſerves, animates the whole Body of Chriſt, and makes it indeed to be <hi>one.</hi> For ſo it follows,
+<note place="margin">ver. 4.</note> 
+               <hi>there is one Body and one Spirit.</hi> And to the ſame purpoſe 'tis frequently expreſt in other places. Thus in the preceding part of this Epiſtle;
+<note place="margin">Chap. 2.22.</note> 
+               <hi>In whom,</hi> that is, in Jeſus Chriſt, <hi>you alſo are builded together, for an Habitation of God, through the Spirit.</hi> And very Remarkably in the Former Epiſtle to the Corinthians;
+<note place="margin">1 <hi>Cor.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.12, 13.</note> 
+               <hi>As the Body is one, and hath many Members, and all the Members of that one Body, being many, are one Body: So alſo is Chriſt. For by one Spirit are we all baptized into one Body, whether we be Jews or Gentiles, whether we be bond or Free; and have been all made to drink into one Spirit;</hi> That is, The Church of Chriſt may be fitly compar'd to the Body of a Man, which has many Members;
+<pb n="11" facs="tcp:47886:7"/>but all of them united by <hi>one Spirit,</hi> which is diffuſed through every part, and quickens the whole. Juſt ſo, ſays he, the Church conſiſts of abundance of particular Believers; but theſe are all admitted by <hi>Baptiſm,</hi> to the Priviledge of being put under the Conduct of the <hi>Holy Ghoſt,</hi> in whoſe Name they are bap<g ref="char:EOLhyphen"/>tized, together with that of the <hi>Father,</hi> and of the <hi>Son,</hi> and whoſe aſſiſtance they may conſtantly de<g ref="char:EOLhyphen"/>pend upon, if they do not reſiſt and drive him away from them. And they are farther conſtantly <hi>made to drink into the ſame Spirit;</hi> that is, by partaking of the other Sacrament, that of <hi>the Lords-Supper,</hi> Particularly of the wine there poured out, they may receive, and if they are ſincere Chriſtians, they do ſo, farther communications of the ſame <hi>Spirit.</hi> Now this gives a clear account of the Expreſſion in the Text, <hi>the <g ref="char:V">Ʋ</g>nity of the Spirit,</hi> that is, ſuch an Unity, as becomes a Body thus animated by the ſame Spirit, <hi>viz.</hi> an Unity in <hi>Judgment,</hi> and an Unity in Affection; or in other words, an Unity in <hi>Truth</hi> and in <hi>Charity,</hi> together with all that <hi>External</hi> and <hi>Viſible</hi> Unity which is Naturally conſequent upon the Former. For ſo it follows, <hi>in the bond of Peace,</hi> by which is meant <hi>a Peaceable Converſation</hi> with each other, as in all other reſpects, ſo eſpecially in <hi>Spiri<g ref="char:EOLhyphen"/>tual</hi> Affairs; the avoiding all Diſſenſion and Diviſion, with reſpect to <hi>External Communion;</hi> the <hi>Living and Converſing</hi> together, and eſpecially the <hi>Communcating</hi> with each other in all the Ordinances, and Inſtitutions of Religion, as <hi>one Body.</hi> This peaceable demeanor is <hi>the Bond</hi> of Unity amongſt Chriſtians not only ſhew<g ref="char:EOLhyphen"/>ing them to be <hi>one,</hi> but preſerving them in that ſtate. So that you may take my Explication of this Duty, in the <hi>Four</hi> Following Particulars.</p>
+            <pb n="12" facs="tcp:47886:8"/>
+            <p>
+               <hi>To keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the bond of Peace</hi> implys,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> the maintaining as much as may be an Unity in <hi>Judgment,</hi> eſpecially as to the main and Principal Doctrines of the Chriſtian Faith.</p>
+            <p>It implys alſo the preſerving and cheriſhing of <hi>Love</hi> and <hi>Affection</hi> amongſt Chriſtians.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+            </p>
+            <p>It farther implys a quiet and Peaceable,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> Nay a kind and amicable demeanor towards each other, in our whole <hi>Converſation.</hi>
+            </p>
+            <p>It implys yet more particularly a preſerving en<g ref="char:EOLhyphen"/>tire,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> as far as in us lyes, the <hi>External Communion</hi> of the Chriſtian Church.</p>
+            <p>
+               <hi>To keep the <g ref="char:V">Ʋ</g>nity</hi> &amp;c implys the maintaining,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> as much as may be, an Unity in <hi>Judgment,</hi> eſpecially as to the main and Principal Doctrines of the Chriſti<g ref="char:EOLhyphen"/>an Faith.
+<note place="margin">1 Cor. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.</note> This is what St. Paul exhorts the <hi>Corin<g ref="char:EOLhyphen"/>thians</hi> to; <hi>Now I beſeech you Brethren, by the Name of our Lord Jeſus Chriſt, that ye all ſpeak the ſame thing, and that there be no Diviſions among you, but that ye be perfectly joyn'd together in the ſame Mind, and in the ſame Judgment.</hi>
+            </p>
+            <p>'Tis true; Chriſtians, as well as all other Men, may be ſuppos'd, and fairly allow'd to differ in ſome matters which are of no great conſequence; but there are certain Truths deliver'd down to us in the Scriptures, from our bleſſed Saviour and his Apoſtles, which are to be faithfully adher'd to by all Chriſtians, even ſuch as wherein Chriſtianity it ſelf is concern'd, and which cannot be denyed without Subverting, or at leaſt ſhaking and endangering the Foundation; as there as likewiſe many others, which are neceſſa<g ref="char:EOLhyphen"/>ry to be underſtood and believ'd, if we will form any true Scheme of our Religion, or arrive at any com<g ref="char:EOLhyphen"/>petent Knowledge and Underſtanding in it. Why elſe ſhould St. <hi>Paul</hi> require <hi>Timothy to hold faſt
+<pb n="13" facs="tcp:47886:8"/>the form of ſound words which he had heard of him?</hi>
+               <note place="margin">2. Tim. 1.13, 14.</note> And again, <hi>to keep by the Holy Ghoſt, that good thing which was committed to him?</hi> Why did he order him to abide <hi>at Epheſus</hi> on purpoſe, as himſelf ſayes,
+<note place="margin">1. Tim. 1.1.3. Tit. 2.1.2.</note> 
+               <hi>that he might charge ſome, that they ſhould teach no other Doctrine?</hi> Why does he command <hi>Titus to ſpeak the things that become ſound Doctrine?</hi> And to teach thoſe under his charge <hi>to be ſound in the Faith?</hi> And why again does he in the ſame Epiſtle ſet it down, as a Qualification of thoſe Biſhops whom <hi>Titus</hi> ſhould ordain, that they ſhould <hi>hold faſt the faithful word, as they had been taught,</hi>
+               <note place="margin">Tit. 1.9, 10, 11.</note> 
+               <hi>that they might be able by ſound Doctrine both to exhort, and to convince the gain-ſayers, and to ſtop the Mouths of unruly and vain talkers and deceivers?</hi> And laſtly, what elſe can St. <hi>Jude</hi> mean,
+<note place="margin">Jude, v. 3.</note> by his exhorting thoſe to whom he writes, <hi>Earneſtly to contend for the Faith which was once deliver'd unto the Saints?</hi>
+            </p>
+            <p>Now as all the Truths of Chriſtianity, which are propos'd to our belief, are contain'd in the Holy Scriptures, which we Proteſtants aſſert to be the compleat <hi>Rule</hi> of our <hi>Faith,</hi> as well as our <hi>Minners;</hi> So the main and Fundamental Articles of the Chriſti<g ref="char:EOLhyphen"/>an Faith, were at firſt contain'd in that, ſhort <hi>Formulary</hi> of <hi>Confeſſion</hi> which was made by Chriſtians at their <hi>Baptiſm.</hi> This <hi>form of ſound words,</hi> was, according to the Apoſtles Expreſſion, <hi>committed</hi> to or <hi>depoſited</hi> with thoſe, whom they ordain'd to Officiate in the Church, to be by them <hi>delivered unto the Saints,</hi> that is, to all Chriſtians, at their <hi>Baptiſm.</hi> And accordingly the profeſſion then made, is by the anti<g ref="char:EOLhyphen"/>ent Chriſtian Writers commonly call'd, <hi>the Rule of Faith;</hi> the Summ of which was, that the Perſon baptized did acknowledge <hi>God the Father,</hi> as the
+<pb n="14" facs="tcp:47886:9"/>Creator of all; together with his <hi>only begotten Son,</hi> as appearing in our Nature, and dying for our Re<g ref="char:EOLhyphen"/>demption, riſing again, and aſcending into Heaven, and ſitting on the right hand of the Father, from whence he is expected to come again, and judge the World; and alſo <hi>the Holy Ghoſt,</hi> the Sanctifier, the Guide, and the Comforter of all True Chriſtians; with the Reſurrection of the dead, and the Life of the World to come. This was afterwards drawn up into that Form, which we have in the <hi>Apostles Creed,</hi> which, as occaſion was given, came to be farther explain'd in thoſe which we call, the <hi>Nieene,</hi> or <hi>Conſtantinopolitan,</hi> and <hi>Athanaſian</hi> Forms. Far<g ref="char:EOLhyphen"/>ther <hi>explain'd</hi> I ſay; For theſe laſt mentioned Forms do contain no more in ſubſtance, than that which we call the <hi>Apoſtles Creed;</hi> as <hi>that</hi> likewiſe contains the very ſame in Subſtance, with the antient Forms of Profeſſion made at Baptiſm. So that there are no <hi>New Articles</hi> contain'd in any of theſe <hi>Creeds;</hi> but only an <hi>explication</hi> of the ancient <hi>Baptiſmal Profeſſion,</hi> according to the Tenor of the Holy Scriptures, and agreeable to the declar'd Judgment of the Firſt and beſt Chriſtian writers extant. So that it is in truth the want of a due acquaintance with the holy Scriptures, at leaſt the true ſence and meaning of them, as underſtood by thoſe, who were neareſt to the time of their being written, and beſt able to judge in the caſe, that makes ſome in our days, whilſt they profeſs themſelves Chriſtians, yet ſo openly and vehemently to inveigh againſt theſe <hi>Forms</hi> in which our Chriſtian Faith is expreſt. Which I the rather take notice of, becauſe there have appear'd of late divers writers, who have in a bold and inſolent, nay rude and Scurrilous man<g ref="char:EOLhyphen"/>ner, attackt thoſe Doctrines, which have ſo con<g ref="char:EOLhyphen"/>ſtantly
+<pb n="15" facs="tcp:47886:9"/>from the beginning of Chriſtianity been own'd, as ſome of the firſt Principles of the Chriſtian Religion. Nay it is too apparent that under the pretence of oppoſing the Doctrine of the bleſſed <hi>Tri<g ref="char:EOLhyphen"/>nity,</hi> all Religion, eſpecially that which hath been <hi>reveal'd,</hi> hath been Struck at. So that we may in this Age repeat St. <hi>Judes</hi> complaint, that <hi>there are certain men crept in, ungodly Men,</hi>
+               <note place="margin">Jude, ver. 4.</note> 
+               <hi>denying the only Lord God, and our Lord Jeſus Chriſt;</hi> upon which ac<g ref="char:EOLhyphen"/>count we ought to exhort one another, as he did thoſe to whom he wrote, <hi>earneſtly to contend for the Faith,</hi>
+               <note place="margin">ver. 3.</note> 
+               <hi>which was once delivered unto the Saints;</hi> and that, not only againſt <hi>Socinianiſm,</hi> and <hi>Arianiſm;</hi> but even againſt groſs <hi>Scepticiſm,</hi> and downright <hi>Infidelity.</hi> Now if we would <hi>keep the <g ref="char:V">Ʋ</g>nity of the Spirit,</hi> in this firſt ſenſe which I am ſpeaking of, we ought ſtrictly to adhere to the Doctrine which we receiv'd, when we were baptized <hi>in the Name of the Father, and of the Son, and of the Holy Ghoſt,</hi> and thereby dedicated to our great <hi>Creator, Redeemer,</hi> and <hi>Sanctifier;</hi> we ſhould ſeriouſly conſider, and endeavour fully to underſtand, the Profeſſion of Faith we were then baptized into, ſettling our Judgments in all the great Articles of our Religion, by the careful ſtudy of the Holy Scriptures, which were indited by men in<g ref="char:EOLhyphen"/>dued with a divine Spirit, and which are therefore <hi>able to make us wiſe unto Salvation.</hi> We ſhould by the daily uſe of theſe endeavour to improve our minds, not only in the abſolutely neceſſary, but in all the other Doctrines of Chriſtianity, ſuch as will help us to underſtand the true Scheme, and conſequently the great worth and excellency of that Religion which we profeſs; ſtill growing and increaſing in all that uſeful Knowledge, which theſe Books are able to
+<pb n="16" facs="tcp:47886:10"/>furniſh us with. To which purpoſe, as we ſhould read them with ſeriouſneſs and humility, ſo we ſhould make uſe of all thoſe Methods which are pro<g ref="char:EOLhyphen"/>per for the helping us to underſtand an antient Book, not leaning to our own underſtandings to ſuch a degree, as may hinder us from conſulting with thoſe who are beſt qualified to aſſiſt us; adding withal our Earneſt prayers to Almighty God, for the aid of his Holy Spirit, to enlighten and to ſanctifie out Minds in the uſe of them; by which means we ſhall not fail to preſerve that <hi>
+                  <g ref="char:V">Ʋ</g>nity of the Spirit,</hi> with reſpect to our <hi>Judgments,</hi> which St. Paul may be underſtood here to exhort us to.</p>
+            <p>
+               <hi>To keep the Vnity of the Spirit</hi> implys alſo the pre<g ref="char:EOLhyphen"/>ſerving and cheriſhing of Love and Affection a<g ref="char:EOLhyphen"/>mongſt Chriſtians.
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+            </p>
+            <p>After an honeſt care uſed for the information of our Underſtandings, we may poſſibly differ, as I obſerv'd before, in matters of leſs weight and moment, as we find ſome did even in the Apoſtles days. This may fall out from the difference there is between the Parts and Abilities of ſeveral Men. A Serious Study and Practice of the Chriſtian Religion do indeed tend to enlarge the Underſtandings and minds of men: but yet ſtill there is left that difference which Nature has made between the capacity of one Man and another. Beſides that ſome have much greater Advantages, and fairer Opportunitys for the improving of them<g ref="char:EOLhyphen"/>ſelvs, than others have. Whence it comes to paſs, that there are <hi>weak</hi> as well as <hi>ſtrong</hi> Chriſtians; <hi>babes in Chriſt,</hi> ſuch as <hi>have need of milk,</hi> as well as others that are well grown, and are able to digeſt <hi>ſtronger meat.</hi> Even men of equal capacities and abilities, may through their different Advantages, through
+<pb n="17" facs="tcp:47886:10" rendition="simple:additions"/>their tempers, or their Converſations, have differing apprehenſions concerning ſeveral points of Chriſti<g ref="char:EOLhyphen"/>anity it ſelf.</p>
+            <p>But yet in this caſe, we may all <hi>keep the <g ref="char:V">Ʋ</g>nity of the Spirit,</hi> with reſpect to our <hi>Affection</hi> and <hi>Charity</hi> towards each other. Chriſtian <hi>Love</hi> is due to the Chriſtian <hi>Temper</hi> and <hi>Spirit,</hi> wherever they are to be found. The Image of God and our Redeem<g ref="char:EOLhyphen"/>er, wherever it appears, ought to engage the hear<g ref="char:EOLhyphen"/>ty approbation, and cordial Love of Every one, who pretends to bear the ſame Reſemblance.</p>
+            <p>Mutual Charity is ſo neceſſary to the Members of the Chriſtian Body, that we know 'tis made by our Lord himſelf the <hi>diſtinguiſhing Character</hi> of his Diſciples, this being the ſpecial and peculiar Pre<g ref="char:EOLhyphen"/>cept which he gave them,
+<note place="margin">John. 13.34, 35. 1 John, 3, 11.</note> that <hi>they ſhould Love one another, even as he had lov'd them.</hi> St. John therefore calls it, <hi>the Meſſage which they had heard from the beginning, that they ſhould love one another.</hi> There is indeed nothing more univerſally recommend<g ref="char:EOLhyphen"/>ed to Chriſtians, and nothing more vehemently urg'd upon them than this kind of Unity.
+<note place="margin">Rom. 12.16. Col. 3.12, 13, 14.</note> Thus St. <hi>Paul, Be of the ſame mind one towards another;</hi> and Again, <hi>Put on, as the elect of God,</hi> that is, as ſincere Chriſtians, <hi>Holy and Beloved, bowels of mer<g ref="char:EOLhyphen"/>cies, kindneſs, Long Suffering, forbearing one another, and forgiving one another, even as Chriſt forgave you, ſo alſo do ye. And above all theſe things, put on Charity, which is the bond of Perfectneſs;</hi> that is, which is the moſt perfect Bond or Tye, whereby Chriſtians are united to each other. And to name no more, juſt before the Text, as an Introduction to this <hi>keeping the <g ref="char:V">Ʋ</g>nity of the Spirit,</hi> he exhorts the Ephelſians to be <hi>long-ſuffering,</hi>
+               <note place="margin">ver. 2.</note> 
+               <hi>forbearing one another
+<pb n="18" facs="tcp:47886:11"/>in love.</hi> And according to all theſe excellent Pre<g ref="char:EOLhyphen"/>cepts, it was the mutual Affection of the primitive Chriſtians, by which they were diſtinguiſhed, and for which they were envied by their Enemies, when they could look upon them and ſay, <hi>Behold! how they love one another!</hi> Nothing ought to ſeparate one Chriſtian from another in this reſpect, but what at the ſame time ſeparates him from Chriſt. For whilſt we are Members of the ſame Body, whilſt we are all united to the ſame Head, 'tis abſurd not to retain a regard to each other, ſuitable to ſuch a Relation.</p>
+            <p>
+               <hi>To keep the Vnity of the Spirit in the bond of Peace</hi> farther implies,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> a quiet and Peaceable, nay a kind and amicable demeanor towards each other, in our <hi>whole Converſation.</hi>
+            </p>
+            <p>This is neceſſarily conſequent upon the former, ſuch a Behaviour being the natural effect of inward affection and good will; ſo that I need not inſiſt largely on this, after what I have ſaid upon the fore<g ref="char:EOLhyphen"/>going particular. I ſhall only take notice, that as it includes a meek and Gentle treatment of each o<g ref="char:EOLhyphen"/>ther, in all reſpects, ſo more particularly with re<g ref="char:EOLhyphen"/>ſpect to our Speech. I mean, that we never provoke or I ritate our fellow Chriſtians, by any rude or undecent Language, which is ſo far from being allowable in a <hi>Chriſtian,</hi> that it is altogether un<g ref="char:EOLhyphen"/>becoming a <hi>Man.</hi> But I thought fit to mention it, both becauſe this is too common a fault, <hi>the Tongue</hi> (as St.
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>Jane,</hi> expreſſes it) <hi>being an unruly evil;</hi> in<g ref="char:EOLhyphen"/>ſomuch that <hi>if any man offend not in word,</hi> he pro<g ref="char:EOLhyphen"/>nounces him <hi>a perfect man and able to bridle the whole body;</hi>
+               <note place="margin">verſ. 2.</note> as alſo becauſe the conſequences of it are often<g ref="char:EOLhyphen"/>times very deplorable, as the ſame Apoſtle obſerves;
+<pb n="19" facs="tcp:47886:11"/>
+               <hi>Behold! how great a matter a little fire kindleth!</hi>
+               <note place="margin">ver. 5, 6.</note> 
+               <hi>And the tongue is a fire, a world of iniquity; ſo is the tongue among our Members, that it defileth the whole body, and ſetteth on fire the courſe of Nature, and it is ſet on fire of Hell;</hi> but eſpecially, becauſe too many profeſſing Chriſtianity, to the great diſhonour of their profeſſion, upon every ſlight difference that happens amongſt them about their Opinions in Religion, are exceed<g ref="char:EOLhyphen"/>ingly prone to this Evil, accounting it a Teſtimony of Zeal for God and his cauſe, when they can ex<g ref="char:EOLhyphen"/>preſs themſelves in very bitter and reproachful terms; not conſidering what St.
+<note place="margin">ver. 16, 17, 18.</note> 
+               <hi>James</hi> adds in the conclu<g ref="char:EOLhyphen"/>ſion of that Diſcourſe, that <hi>this Wiſdom</hi> (namely which is accompanyed with <hi>bitter envying and Strife) deſcendeth not from above; but is Earthly, ſenſual, deviliſh,</hi> whereas <hi>the wiſdom which is from above is firſt pure, then Peaceable, Gentle, and eaſie to be intreat<g ref="char:EOLhyphen"/>ed, full of mercy and of good fruits; and the fruit of righteouſneſs is ſown in Peace of them that make Peace.</hi> For which Reaſon St. <hi>Paul</hi> thus beſpeaks the <hi>Ephe<g ref="char:EOLhyphen"/>ſians,</hi> in the Chapter out of which my Text is taken; <hi>Let all Bitterneſs, and Wrath, and Anger, and Clamor,</hi>
+               <note place="margin">v. 31, 32.</note> 
+               <hi>and Evil Speaking be put away from you, with all Ma<g ref="char:EOLhyphen"/>lice, and be ye kind one to another, tender-hearted, for<g ref="char:EOLhyphen"/>giving one another, even as God for Chriſts ſake hath forgiven you.</hi> Indeed for a Peaceable behaviour in the general, the New Teſtament throughout abounds with plain and excellent Precepts. Thus St. <hi>Paul,</hi>
+               <note place="margin">1. Theſ. 5.13, 14, 15.</note> to the <hi>Theſſalonians, Be at peace among your ſelves;</hi> and Again, <hi>Be patient towards all men. See that none ren<g ref="char:EOLhyphen"/>der Evil for Evil unto any man: but ever follow that which is good, both among your ſelves, and to all men.</hi>
+               <note place="margin">2 Tim. 2.22, 24. 25.</note> In like manner to <hi>Timothy, Follow Righteouſneſs, Faith, Charity, Peace, with them that call on the Lord out
+<pb n="20" facs="tcp:47886:12"/>of a pure heart;</hi> and a little after, <hi>The Servant of the Lord must not ſtrive: but be gentle unto all men; Pa<g ref="char:EOLhyphen"/>tient, in meekneſs inſtructing thoſe that oppoſe them<g ref="char:EOLhyphen"/>ſelves;</hi> which, tho' it be ſpoken primarily to the <hi>Biſhops</hi> and <hi>Paſtors</hi> of the Church, yet concerns all Chriſtians in general, as being <hi>Servants</hi> alſo of the ſame <hi>Lord.</hi>
+               <note place="margin">Mark 9.50.</note> I ſhall conclude this particular, with our Saviours precept to his immediate followers, and in them to all that ſhould afterwards believe in him; <hi>Have ſalt in your ſelves, and have Peace one with ano<g ref="char:EOLhyphen"/>ther.</hi> That is, See that you be ſeaſon'd with that Spiritual Wiſdom, and that divine Temper of mind, which may render you acceptable both to God and men, and particularly, in order to the ſame end, maintain a conſtant Peace and agreement among your ſelves.</p>
+            <p>
+               <hi>To keep the Vnity of the Spirit in the Bond of Peace</hi> implies yet more particularly,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> a preſerving entire, as far as in us lies, the <hi>External Communion</hi> of the Chriſtian Church.</p>
+            <p>I am ſenſible, that conſidering the divided ſtate of the Church in the preſent Age, this is a very tender point to diſcourſe of; but as I ſhall ſpeak, ſo I de<g ref="char:EOLhyphen"/>ſire to be heard, in the Spirit of meekneſs and Chari<g ref="char:EOLhyphen"/>ty, which, I am ſure, is the true Spirit of Chriſti<g ref="char:EOLhyphen"/>anity.</p>
+            <p>
+               <hi>External Communion</hi> may be very properly call'd <hi>the bond of Peace,</hi> in as much as it ſhews to all the World, that Chriſtians own themſelves <hi>one Body,</hi> and eſpecially as it tends to preſerve them in that State; this being one great end and deſign of our being appointed to meet together, to celebrate the publick worſhip of God, that when we glorifie God and our Redeemer with <hi>one Heart and one Mouth,</hi>
+               <pb n="21" facs="tcp:47886:12"/>our <hi>Charity</hi> towards our Chriſtian Brethren may at the ſame time be <hi>Inflamed.</hi> And that it is apt to have this effect, I dare appeal to the experience of all that are ſerious and conſtant in the publick wor<g ref="char:EOLhyphen"/>ſhip according to the Inſtitution of the Goſpel. And there can be no doubt, but that abundance of that uncharitableneſs, which is to be obſerv'd in Chri<g ref="char:EOLhyphen"/>ſtians towards each other, proceeds from their ha<g ref="char:EOLhyphen"/>ving firſt divided Communions, and refus'd to wor<g ref="char:EOLhyphen"/>ſhip God and their Saviour together. How many unchriſtian Contentions among our ſelves in this Nation, may be attributed Solely to this Cauſe, I leave all that hear me to judge. For after all that men may talk of the <hi>Duty,</hi> and the <hi>Poſſibility</hi> of Chriſtians, who are of different Communions, Lov<g ref="char:EOLhyphen"/>ing one another, ſuch is the Weakneſs of humane Nature, and the coldneſs of Chriſtian Charity, that, as experience convinces us, men are eaſily carry'd from difference in communion, not only to a coolneſs in affection, but as the conſequence of that, a diſtance, and a ſhyneſs in converſation. Firſt the differing parties admit unkind thoughts of each other, then often proceed to hard words, to uncharitable cen<g ref="char:EOLhyphen"/>ſures, either of the opinions, or which is worſe, of the Intentions of thoſe that differ from them, and it may be at laſt come in good earneſt to ſtrive for Maſtery, to ſtruggle for ſuperiority and preeminency, to contend for Power and Dominion.</p>
+            <p>But beſides all the Benefits, which reſult from <hi>keeping the <g ref="char:V">Ʋ</g>nity of the Spirit,</hi> &amp;c. in the ſenſe I am now ſpeaking of, and the Miſchiefs which evidently flow from breaking it, (which are more than I can have time now to enumerate) that which I would propoſe to your impartial conſideration is, that the
+<pb n="22" facs="tcp:47886:13"/>
+               <hi>Nature</hi> and <hi>Frame</hi> of that Religion, which we all profeſs, obliges us to be <hi>One</hi> in this reſpect. The Firſt Chriſtians aſſembled in <hi>one place,</hi> offering up their Devotions daily <hi>together,</hi> under the Direction and conduct of the Apoſtles, as long as their number would permit them ſo to do. Thus we read, in the beginning of the <hi>Acts</hi> of the <hi>Apoſtles,</hi>
+               <note place="margin">Acts 2.1. ver. 44, 45.</note> At the day of Pentecoſt, <hi>they were all with one accord in one Place.</hi> And afterwards in the ſame Chap. <hi>All that believ'd were together;</hi> and Again, <hi>They continuing daily with one accord in the Temple, and breaking bread from Houſe to Houſe, did eat their meat with gladneſs and ſingleneſs of heart;</hi> that is, they worſhip God together in the Tem<g ref="char:EOLhyphen"/>ple, at the Hours of Prayer, and then withdrew into ſome more private apartment to celebrate the Lords Supper together (the peculiar Chriſtian ſervice) doing all with great ſimplicity,
+<note place="margin">ver. 42.</note> Integrity, joy, and Charity; and once more, <hi>They continued ſtedfaſtly in the Apoſtles Doctrine and fellowſhip, and in breaking of bread, and Prayers.</hi> Thus did the firſt Chriſtians, and then 'tis obſerv'd that <hi>the Lord added to the Church daily ſuch as ſhould be ſav'd;</hi>
+               <note place="margin">ver. 4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> the unanimity of Chriſtians, to<g ref="char:EOLhyphen"/>gether with the Bleſſing of God which is ready to attend it, having a mighty tendency to the increaſing their Number.</p>
+            <p>When the Number of Chriſtians was by this means increas'd, and the Religion of our Saviour was ſpread through many diſtant Citys and Coun<g ref="char:EOLhyphen"/>trys, they were then indeed neceſſitated to aſſemble in diſtinct places, to which Purpoſe the Apoſtles or<g ref="char:EOLhyphen"/>dain'd and fix'd Biſhops and Laſtors in every place where they form'd a Church; but ſtill they were <hi>one</hi> in <hi>heart</hi> and <hi>Soul,</hi> a fair correſpondence was kept up between all theſe particular Churches, and when
+<pb n="23" facs="tcp:47886:13"/>any Chriſtian travel'd from one city to another, he immediately joyn'd with, and was receiv'd by the Church ſettled in that place to which he came, as may be eaſily diſcern'd in the Sequel of that Hiſtory of the Acts of the Apoſtles.</p>
+            <p>Every Chriſtian is in truth a Member of the <hi>Catho<g ref="char:EOLhyphen"/>lick Church of</hi> Chriſt, and conſequently diſpos'd, if he be rightly inſtructed in his profeſſion, to joyn with any ſound part of the Church throughout the World, wherever his buſineſs or occaſions ſhall lead him. But foraſmuch as the <hi>Catholick</hi> Church muſt be diſtributed into ſeveral <hi>particular</hi> Churches, for the good of the whole, and the Edification of every particular member of it, each particular Chriſtian is by conſequence of right, a member of that part of the Chriſtian Church, in which providence hath caſt his lot; and where his ordinary abode and reſidence is, there in all reaſon ought his Stated and ordinary Communion to be, provided always, that no <hi>un<g ref="char:EOLhyphen"/>chriſtian,</hi> no <hi>unlawful</hi> Terms of Communion are im<g ref="char:EOLhyphen"/>pos'd upon him.</p>
+            <p>If any particular Church impoſe any <hi>unlawful</hi> Terms of Communion, then a good Chriſtian is diſcharged of this obligation; <hi>that</hi> will be a ſufficient plea for his ſeparation from it. For which reaſon, if the Romiſh Communion were eſtabliſhed among us (which God forbid it ever ſhould be) we, who have been Inſtructed in the principles of Chriſtianity, as reform'd from the Errors and Corruptions of that Church, ought not, we could not Conſiſtently with our Principles Communicate with it. But whereſo<g ref="char:EOLhyphen"/>ever here is a Church eſtabliſhed, under the conduct of Biſhops and Paſtors regularly call'd and appointed to guide and govern it, and if the State be Chriſtian,
+<pb n="24" facs="tcp:47886:14"/>with the concurrence of its Authority alſo, in which a good Chriſtian may worſhip and ſerve his Maker and Redeemer, without profeſſing or complying with any thing contrary to the precepts of Chriſtianity, I can ſee no juſt reaſon for ſeparation in ſuch a caſe.</p>
+            <p>Shall the meer pretence of prefering ſome <hi>confeſſedly indifferent</hi> modes or Circumſtances of worſhip and diſcipline excuſe a Chriſtian from holding Com<g ref="char:EOLhyphen"/>munion with that Church, to which he otherwiſe of right belongs? But where then will be any end of Diviſion? What bounds or limits can be fixt to it? How is it poſſible there ſhould be any order, any Peace, in the Chriſtian Church, if every one is at Liberty to break the Unity of the Body meerly for this reaſon, becauſe he could better approve of ſome other Modes or Circumſtances, whilſt yet he allows thoſe which are in preſent uſe to be <hi>Lawful?</hi>
+            </p>
+            <p>Who is it, in all other Bodys and Societies of Men, that orders ſuch matters, but the Governours of each ſociety? And who in a Chriſtian Nation ſhould like<g ref="char:EOLhyphen"/>wiſe order them, but the Governours in Church and State? And when they are ſo order'd, what has any private Member of the Chriſtian Body farther to do, but to conſider whether he can comply with a good Conſcience, or not. And if he can, ſurely the Peace of the Church, the keeping the Unity of the Body of Chriſt, the promoting concord and Charity and Edification amongſt its Members, are ſtrong obligations upon him to do it.</p>
+            <p>If any thing plainly <hi>unlawful</hi> be requir'd, then that reply of the Apoſtles to the <hi>Sanhedrim</hi> takes place;
+<note place="margin">Acts. 4.19.</note> 
+               <hi>whether it be right in the ſight of God, to hearken unto you, more than unto God, judge ye.</hi> But if no<g ref="char:EOLhyphen"/>thing
+<pb n="25" facs="tcp:47886:14"/>
+               <hi>unlawful</hi> by <hi>Gods Word,</hi> nothing unlawful according to our own <hi>Judgment</hi> and <hi>Confeſſion,</hi> be made a condition of Communion; I dare appeal to your ſelves, in a like form of words, <hi>Whether it be right in the Sight of God, to break the <g ref="char:V">Ʋ</g>nity of the Church of Chriſt, Judge ye.</hi>
+            </p>
+            <p>I ſhould now, according to the Method I propos'd,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> go on to conſider the Obligation all Chriſtians are under, to practice the Duty of the Text. But that I may not exceed the limits of my Time, I ſhall con<g ref="char:EOLhyphen"/>fine my ſelf to what our Apoſtle himſelf hath laid down to this purpoſe, in the Context, which is indeed ſo full and emphatical, that a very ſhort Paraphraſe upon his Words may well ſuffice.</p>
+            <p>The Word he uſes in the Text it ſelf is very ob<g ref="char:EOLhyphen"/>ſervable. <hi>Endeavouring</hi> we render it;
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but it de<g ref="char:EOLhyphen"/>notes (as is well known) no ſlight and ordinary Endeavour; but a very <hi>diligent</hi> one, a <hi>ſtudious</hi> and <hi>Earneſt care to keep the <g ref="char:V">Ʋ</g>nity of the Spirit,</hi> which plainly ſhews the weight of the Duty, and the ſtrict Obligation, which lyes upon all Chriſtians to pra<g ref="char:EOLhyphen"/>ctice it. And no leſs can be infer'd from what imme<g ref="char:EOLhyphen"/>diately goes before, and follows the words.</p>
+            <p>In the <hi>Firſt</hi> verſe of this Chapter (as I have al<g ref="char:EOLhyphen"/>ready obſerv'd) the Apoſtle intimates, that it is <hi>a walking worthy of our Chriſtian Vocation,</hi> that is, 'tis a behaving our ſelves Suitably to the deſign and Na<g ref="char:EOLhyphen"/>ture of the profeſſion we make; 'tis what Chriſtianity requires of us; and that it is ſo appears more particu<g ref="char:EOLhyphen"/>larly by what immediately follows the Text,
+<note place="margin">ver. 4.5, 6.</note> 
+               <hi>There is one Body, and one Spirit, even as ye are called in one hope of your calling; one Lord, one Faith, one Bap<g ref="char:EOLhyphen"/>tiſm; one God and Father of all, who is above all, and through all, and in you all.</hi> What can be offer'd
+<pb n="26" facs="tcp:47886:15"/>more perſwaſive than this? Let us take a ſhort View of each particular.</p>
+            <p>
+               <hi>There is one Body,</hi> that is, (as I ſaid before) the Chriſtian Church throughout the world is but <hi>one Society,</hi> Diſtributed into Several particular Churches, as its parts, of which particular Churches, if ſound in Doctrine and worſhip, and impoſing no unlawful Terms of Communion, each ſingle Chriſtian is of right a Member, in the place in which Providence hath caſt his Lot; and conſequently is bound to maintain and promote the Unity and Peace of the particular Church of which he is a Member, in order to preſerving the Unity and peace of the whole Body.</p>
+            <p>
+               <hi>One Spirit;</hi> every ſound part of the Chriſtian Church, and every genuine Member of it, is under the Influence and Conduct of the Holy Spirit of God, to which if he yields himſelf tractable, uſing all thoſe means which he hath appointed for the attaining his Aſſiſtance, he will not fail to have his Judgment duly Settled, and his mind inſpired with a ſincere Love to all who are under the Influence of the ſame Spirit; the effect of which will certainly be a Peaceable Converſation, and eſpecially a readineſs to joyn with all his fellow Chriſtians in every part of the worſhip of God and his Redeemer. It follows,</p>
+            <p>
+               <hi>As ye are called in one hope of your Calling.</hi> We all expect the ſame reward, even the Reſurrection of our Bodys at the laſt day, and the everlaſting Happineſs of the Life to come; we all hope to meet in the ſame Region of Bliſs, and to joyn and live to<g ref="char:EOLhyphen"/>gether for ever in <hi>one Body,</hi> in Heaven. How then can we fall out in the way thither, or refuſe to walk together in the ſame path of Life? <hi>One Lord;</hi> whoſe
+<pb n="27" facs="tcp:47886:15"/>Authority we all equally own, whoſe Laws we profeſs to ſubmit to, and conſequently have the ſame Rule to walk by, and the ſame obligation to make us obſerve it. As fellow ſervants we cannot diſagree, without diſowning the Authority of our Common Maſter. As fellow-Members we cannot be diſunited, without relinquiſhing ſo far our com<g ref="char:EOLhyphen"/>mon Head.</p>
+            <p>
+               <hi>One Faith, One Baptiſm.</hi> We all profeſs to adhere to <hi>that Faith, which was once delivered unto the Saints,</hi> agreeing, at leaſt in the fundamental and neceſſary Articles of it; this profeſſion we undertook at our Baptiſm, when we were all initiated into the ſocie<g ref="char:EOLhyphen"/>ty of Chriſtians in the ſame manner, being waſhed with water, <hi>in the Name of the Father, the Son, and the Holy Ghoſt,</hi> declaring our belief in, and our reſig<g ref="char:EOLhyphen"/>nation to theſe three Divine Perſons. And how then can we afterwards be excuſed, if we fall out and divide about inconſiderable and indifferent matters, which neither relate to the foundation of our <hi>Faith,</hi> nor contradict the Deſign of our <hi>Baptiſm?</hi> And to conclude,</p>
+            <p>
+               <hi>One God, and Father of all, who is above all, and through all, and in you all.</hi> We are children of the ſame <hi>Heavenly Father,</hi> and Conſequently ought to live in Brotherly Love and Charity, in perfect con<g ref="char:EOLhyphen"/>cord and agreement, thinking and ſpeaking and Act<g ref="char:EOLhyphen"/>ing the very ſame things, as thoſe who are under the ſame paternal Government and Authority, who are taken care of, provided for, and directed by the ſame Providence, and the ſame Grace.</p>
+            <p>Theſe are the Arguments, by which the Apoſtle inforceth the Duty of the Text, the ſumme of all which is, that the whole Scheme and Frame of our
+<pb n="28" facs="tcp:47886:16"/>Religion, its Author, its Rule, its Model, its end, do all oblige us to the keeping of unity; ſo that we cannot any way contribute towards contention or diviſion in the Church of Chriſt, without <hi>going Directly croſs to our Profeſſion,</hi> and <hi>walking altogether unworthy of our Heavenly Calling.</hi>
+            </p>
+            <p>All that farther remains,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> is in the Laſt place to ſhew, how we may beſt attain to the Practice of this Duty I have been from the Apoſtle urging upon you. As to this, I ſhall lay down but <hi>three</hi> plain and eaſy Directions, and ſo conclude.</p>
+            <p>In order to this End,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> we ſhould get our minds thorowly poſſeſſed with the grace of <hi>Humility.</hi> This I mention firſt, becauſe 'tis that which the Apoſtle himſelf adviſeth to, as a good diſpoſition towards <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Peace.
+<note place="margin">ver. 1.</note> I beſeech you</hi> ſayes he, <hi>that you would walk worthy of your Vocation.</hi>
+               <note place="margin">ver. 2.</note> How? <hi>with all lowli<g ref="char:EOLhyphen"/>neſs and meekneſs, keeping the <g ref="char:V">Ʋ</g>nity of the Spirit</hi> &amp;c.</p>
+            <p>Contention of all ſorts, and particularly in mat<g ref="char:EOLhyphen"/>ters of Religion, generally flows from pride, an over-weening Opinion of our ſelves, and our own Judgments: whereas <hi>Humility</hi> diſpoſeth us to con<g ref="char:EOLhyphen"/>ſider impartially our ſelves, and to hear and receive whatſoever good reaſon can be offer'd by another, who differs from us; and which is more, it diſpoſeth us heartily to ſeek, and to obtain the Direction and Aſſiſtance of Almighty God, in all our inquiries after Truth, who taketh pleaſure in <hi>reſiſting the Proud; but giveth grace to the Humble.</hi>
+            </p>
+            <p>We ſhall do well likewiſe to take into conſidera<g ref="char:EOLhyphen"/>tion,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> and lay to heart ſeriouſly the many and great miſchiefs which contention and diviſion have brought upon the Church of Chriſt.</p>
+            <p>I need not mention the ill effects that have pro<g ref="char:EOLhyphen"/>ceeded
+<pb n="29" facs="tcp:47886:16"/>from this Cauſe in Foreign Churches of old, Experience has taught us enough with reſpect to our own, in which our differences, about matters of Reli<g ref="char:EOLhyphen"/>gion, and the Diviſions that have follow'd upon them, have produced very deplorable conſequences throughout this laſt Age. Not to mention the civil diſcord, which hath, at leaſt, been exceedingly heighten'd hereby, I fear much of that <hi>Scepticiſm</hi> and <hi>Infidelity</hi> as well as the <hi>Profaneneſs</hi> and <hi>looſeneſs of manners,</hi> that have brought a ſcandal upon our times, muſt be aſcribed to this cauſe. I am ſure <hi>that want of Diſcipline</hi> for the amending our manners, which all good men amongſt us complain of, muſt neceſſarily follow, upon our being divided into ſo many ſeveral Communions and Partys in Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>'Tis time for us now to lay theſe things to heart, when <hi>that</hi> which we all know <hi>hindered</hi> our Union, <hi>is taken out of the way,</hi> I mean, a deſign in thoſe, who had the management of publick affairs amongſt us, firſt to divide us, and by that means to prepare us for a change of Religion.</p>
+            <p>'Tis certainly the <hi>Duty,</hi> as well as the <hi>Intereſt,</hi> of all amongſt us who have any regard for the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Religion,</hi> being now ſo happily and Peaceably ſettled under another Influence, to forget our paſt con<g ref="char:EOLhyphen"/>tentions, whether with reſpect to the Affairs of <hi>Church</hi> or <hi>State,</hi> and to do, what in us lyes, towards the be<g ref="char:EOLhyphen"/>coming entirely <hi>one Body</hi> in both.</p>
+            <p>We may do well, in the laſt place,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> to lay down this as a certain and undoubted Principle, that the Peace and Edification of the Church of Chriſt, and particularly of that part of it, to which we belong, is infinitely to be prefer'd before all thoſe little
+<pb n="30" facs="tcp:47886:17"/>things with reſpect to which we uſually contend and divide.</p>
+            <p>The main conſideration which prevails with a great part of thoſe who divide from the Communion eſtabliſhed amongſt us, is, as far as I can perceive, that although they allow our publick Service and Communion to be <hi>lawful,</hi> and <hi>occaſionally</hi> declare that they do ſo by their Practice, yet there is ſomething in the other way, which they <hi>like better,</hi> and which, they ſay, is to themſelves more <hi>Edifying.</hi>
+            </p>
+            <p>Now waving all other Anſwers to this, I ſhall only recite, and leave to your Serious Conſideration two plain Texts of Scripture, (rather chuſing to ſpeak to you in Gods words, than in my own, that they may leave the deeper impreſſion on your minds;) in both which we are taught to prefer the Peace of the Church, and the Edification of our Chriſtian Brethren, before our own Satisfaction, or the meer pleaſing and gratifying our ſelves, nay even before all other conſiderations whatſoever, in matters, which are in their own Nature indifferent.</p>
+            <p>One is that of St. <hi>Paul,</hi> in his Epiſtle to the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> where having diſcours'd of ſome differences which were ariſen amongſt the Chriſtians of that Church, about the uſe of things indifferent, namely, Eating ſome kinds of Meats,
+<note place="margin">Rom. 14 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and obſerving ſome ſort of days, he concludes, Firſt with this Excellent ſaying, <hi>the Kingdom of God is not meat and drink, but righteouſneſs, and Peace, and joy in the Holy Ghost;</hi> that is, Chriſtianity conſiſts not in the Former; but in the latter. The Former are <hi>indifferent,</hi> and may be uſed, or not uſed, as they conduce to the Peace of the Church, and the Edification of our Brethren: but the latter are abſolutely neceſſary.
+<note place="margin">ver. 18.</note> 
+               <hi>For,</hi> as it
+<pb n="31" facs="tcp:47886:17"/>follows, <hi>he that in theſe things ſerveth Chriſt, is accep<g ref="char:EOLhyphen"/>table to God, and approved of men.</hi> And then he adds that Divine Exhortation,
+<milestone type="tcpmilestone" unit="unspecified" n="19"/> 
+               <hi>Let us therefore follow after the things which make for Peace, and things wherewith one may Ediſie another.</hi> Not <hi>the things which would moſt gratifie our ſelves;</hi> But <hi>the things which make for Peace:</hi> Nay not <hi>the things which we may Imagine our ſelves might be moſt ediſyed by;</hi> But <hi>the things where<g ref="char:EOLhyphen"/>with one may Edifie another.</hi>
+            </p>
+            <p>The other Text is of the ſame Apoſtle (who had a truly large Soul, and every where expreſſes a gener<g ref="char:EOLhyphen"/>ous Charity) in his Epiſtle to the <hi>Coloſſians.</hi> He had, in the Former Chapter taken notice of the Dif<g ref="char:EOLhyphen"/>ferences between the Judaizing Chriſtians, and o<g ref="char:EOLhyphen"/>thers, upon which, after other Advice he concludes,
+<note place="margin">Col. 3.14, 15.</note> 
+               <hi>Above all theſe things put on Charity, which is the bond of Perfectneſs. And let the Peace of God rule in your hearts, to the which alſo ye are called in one Body. Charity,</hi> it ſeems, was in his Judgment, to <hi>Bind,</hi> and Tye them, as it were, perfectly together, in Spite of all their ſmaller differences; and a <hi>Peaceable Temper of Spirit,</hi> to <hi>over-rule</hi> all their little controverſies,
+<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> about indifferent things. The word we tranſlate <hi>Rule</hi> is Re<g ref="char:EOLhyphen"/>markable, alluding to the <hi>
+                  <g ref="char:V">Ʋ</g>mpire</hi> in their Games, who was to determine all controverſies that ſhould ariſe, and particularly to whom the prize did belong; as if he had ſaid, If there Happen any differences a<g ref="char:EOLhyphen"/>mongſt you concerning matters of Religion, not <hi>ne<g ref="char:EOLhyphen"/>ceſſary,</hi> but in their own Nature <hi>indifferent,</hi> nay if you it may be could your ſelves prefer one way be<g ref="char:EOLhyphen"/>fore another, yet judging neither of them unlawful, <hi>Let the Peace of God rule in your hearts,</hi> in all ſuch ca<g ref="char:EOLhyphen"/>ſes; let <hi>that</hi> determine all ſuch controverſies; let Judgment or arbitration be always given on the ſide
+<pb n="32" facs="tcp:47886:18" rendition="simple:additions"/>of <hi>Peace,</hi> and <hi>Concord,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity; for to theſe things ye are called in one Body.</hi>
+            </p>
+            <p>After this I ſhall need to add no more; but only to remind you, that the Holy <hi>Sacrament</hi> which we are now going to partake of, is the <hi>Symbol</hi> and <hi>Badge,</hi> of this <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> I am pleading for; 'tis <hi>that</hi> whereby we profeſs to the World, as I obſerv'd at the firſt, our Communion with God and our Saviour, and with all good Chriſtians; 'tis <hi>that</hi> whereby, upon this Occaſion, we own our ſelves <hi>Members</hi> of the <hi>Eſtabliſhed Church,</hi> not as divided from the reſt of the Chriſtian Church; but as one <hi>ſound-part</hi> of that <hi>great Body;</hi> and 'tis conſequently <hi>that</hi> which ſtrictly obli<g ref="char:EOLhyphen"/>geth us to be henceforward the obedient Servants of God, the faithful Diſciples of our Lord, Peaceable, Charitable, and Uſeful Members of his Body, Deſign<g ref="char:EOLhyphen"/>ing, and promoting, as far as in us lyes, the Welfare both of this Church, and of the Catholick Church of Chriſt throughout the World.</p>
+            <p>
+               <hi>Now to that one God and Father of all, who hath call'd us to be Members of his Sons Body; to that one Lord who is the Head of this Body; and to that one Et<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nal and Inviſible Spirit, who animates and Influences every genuine part and Member of it, be aſcribed all hon<g ref="char:EOLhyphen"/>our, Praiſe, and Glory, now and for ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>A Sermon Preach'd at the Church of St. <hi>Mary le Bow,</hi> To the Societies for Reformation of <hi>Manners, October the</hi> 4th. 1697. By <hi>Samuel Bradford,</hi> Rector of the ſaid Church.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
